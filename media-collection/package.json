@@ -15,8 +15,8 @@
   "author": "Adobe Systems Inc.",
   "license": "Apache-2.0",
   "dependencies": {
-    "dotenv": "^16.0.1",
-    "handlebars": "^4.7.7"
+    "dotenv": "^16.3.1",
+    "handlebars": "^4.7.8"
   },
   "devDependencies": {
     "http-server": "^14.1.1"
